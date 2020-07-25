@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: 
+<uses-permission android:name="android.permission.INTERNET" />
